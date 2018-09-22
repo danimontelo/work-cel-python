@@ -1,3 +1,6 @@
+# Exercício 1
+# Cálculos da velocidade e multa por excesso de velocidade
+
 velocidade = float(input("Entre com o valor da velocidade:"))
 
 if velocidade > 80: 
